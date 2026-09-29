@@ -1,12 +1,12 @@
 {
-  "version": "1.2.0",
-  "notes": "Importar el extracto en PDF de Revolut desde la pantalla Importar",
+  "version": "1.2.1",
+  "notes": "Botón Informe en el dashboard: PDF con los gastos adelantados a mamá desde su último pago",
   "min_runtime": "1.2.0",
   "code": {
-    "url": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.2.0/finanzas-personales-1.2.0-code.zip",
-    "sha256": "e386a895760038c6093c549b4b02da8cf16a9ad6037353492e667f56cb85cf5d"
+    "url": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.2.1/finanzas-personales-1.2.1-code.zip",
+    "sha256": "34494cab45fc5ac468016ae49db951139cdc394d2af8795675aacf5f6928a442"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.2.0/FinanzasPersonales-Setup-1.2.0.exe"
+    "windows": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.2.1/FinanzasPersonales-Setup-1.2.1.exe"
   }
 }
