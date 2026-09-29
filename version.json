@@ -1,0 +1,12 @@
+{
+  "version": "1.2.0",
+  "notes": "Importar el extracto en PDF de Revolut desde la pantalla Importar",
+  "min_runtime": "1.2.0",
+  "code": {
+    "url": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.2.0/finanzas-personales-1.2.0-code.zip",
+    "sha256": "e386a895760038c6093c549b4b02da8cf16a9ad6037353492e667f56cb85cf5d"
+  },
+  "installers": {
+    "windows": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.2.0/FinanzasPersonales-Setup-1.2.0.exe"
+  }
+}
