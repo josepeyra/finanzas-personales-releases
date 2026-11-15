@@ -1,12 +1,12 @@
 {
-  "version": "1.4.0",
-  "notes": "Diseño nuevo: barra lateral con tus cuentas, Inicio con las cifras del mes, presupuesto que se despliega en sus movimientos y gráficos con eje. Patrimonio automático: los saldos se calculan solos y los bancos se ponen al día al importar el extracto. Inicio de cualquier mes con su previsión e informe. Inversiones con precios diarios y comparación con el índice desde tu primera compra.",
-  "min_runtime": "1.3.0",
+  "version": "1.5.0",
+  "notes": "Tus datos pasan a la nube (Neon) y los comparte la web para el movil. Necesita reinstalar.",
+  "min_runtime": "1.5.0",
   "code": {
-    "url": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.4.0/finanzas-personales-1.4.0-code.zip",
-    "sha256": "e3f71592e9c61cc8f8c082b5969e42da4c30a181840cf45e76eeb2e8d41328a5"
+    "url": "https://github.com/josepeyra/finanzas-personales-releases/releases/download/v1.5.0/finanzas-personales-1.5.0-code.zip",
+    "sha256": "7688c2aee2d74af2256b954b3d752e3cf963eb8fc7286ec9526faa89ca60b8ab"
   },
   "installers": {
-    "windows": "https://github.com/josepeyra/finanzas-personales-releases/releases/tag/v1.4.0"
+    "windows": "https://github.com/josepeyra/finanzas-personales-releases/releases/tag/v1.5.0"
   }
 }
